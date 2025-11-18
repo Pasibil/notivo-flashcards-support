@@ -45,7 +45,7 @@ We aim to respond within 48 hours.
 ---
 
 ## Legal
-- [Privacy Policy]([privacy.md](https://pasibil.github.io/flashcards-policy/))  
+- [Privacy Policy](https://pasibil.github.io/flashcards-policy/)
 
 ---
 
